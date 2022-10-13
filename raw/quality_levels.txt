@@ -1,0 +1,9 @@
+-999;error
+1;only formal control during decoding and import
+2;controlled with individually defined criteria
+3;ROUTINE control with QUALIMET and QCSY
+5;historic, subjective procedures
+7;ROUTINE control, not yet corrected
+8;quality control outside ROUTINE
+9;ROUTINE control, not all parameters corrected
+10;ROUTINE control finished, respective corrections finished

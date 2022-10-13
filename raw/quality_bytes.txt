@@ -1,0 +1,9 @@
+-999;quality flag does not exist
+0;denotes not flagged
+1;had no objections (either checked and not objected, or not checked and not objected, this can be interpreted only when considering QN)
+2;corrected
+3;confirmed with objection rejected
+4;added or calculated
+5;objected
+6;only formally checked
+7;formal objection
